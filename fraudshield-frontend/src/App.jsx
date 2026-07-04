@@ -6,9 +6,8 @@ import {
   Shuffle, ArrowUp, ArrowDown, Search, ChevronRight, Heart,
 } from "lucide-react";
 
-/* Single source of truth for the backend origin — change this one line to
-   point at a deployed API instead of localhost. */
-const API_BASE_URL = "http://127.0.0.1:8000";
+
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://127.0.0.1:8000";
 
 /* ================= DATA ================= */
 
