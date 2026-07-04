@@ -14,7 +14,7 @@ app = FastAPI()
 # Allow your frontend (running on a different port) to call this API
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://fraud-shield-liard.vercel.app"],
     allow_methods=["*"],
     allow_headers=["*"],
 )

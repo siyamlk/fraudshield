@@ -246,13 +246,14 @@ FraudShield/
 ## Live Deployment
 
 | **Component**         | **Link** |
-| :-------------------- | :------- |
-| **Frontend**          | *Coming soon* |
-| **Backend API**       | *Coming soon* |
-| **API Documentation** | *Coming soon* |
+| :--------------------- | :------- |
+| **Frontend**            | [fraud-shield-liard.vercel.app](https://fraud-shield-liard.vercel.app) |
+| **Backend API**         | [fraudshield-sc4l.onrender.com](https://fraudshield-sc4l.onrender.com) |
+| **API Documentation**   | [fraudshield-sc4l.onrender.com/docs](https://fraudshield-sc4l.onrender.com/docs)|
+
+*Hosted on free tiers — the backend may take up to ~50 seconds to respond on first load after a period of inactivity.*
 
 ---
-
 ## Running Locally
 
 ### Clone the Repository
