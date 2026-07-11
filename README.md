@@ -104,6 +104,7 @@ The frontend is responsible for user interaction and visualization, while the ba
 
 </tr>
 </table>
+
 ## Model Development & Selection
 
 | Stage | Implementation |
