@@ -105,7 +105,7 @@ The frontend is responsible for user interaction and visualization, while the ba
 </tr>
 </table>
 
-## Model Development & Selection
+<h2>Model Development & Selection</h2>
 
 | Stage | Implementation |
 | :----- | :------------- |
@@ -344,9 +344,9 @@ Planned improvements include:
 
 **Siya Malik ♡**
 
-♡**GitHub:** https://github.com/siyamlk
+**GitHub:** https://github.com/siyamlk
 
-♡**LinkedIn:** https://www.linkedin.com/in/siya-m-704141219/
+**LinkedIn:** https://www.linkedin.com/in/siya-m-704141219/
 
 If you have feedback, suggestions, or would like to discuss the project, feel free to open an issue or connect with me on LinkedIn.
 
